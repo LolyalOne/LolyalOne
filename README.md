@@ -1,60 +1,44 @@
-# 👨‍💻 Mikaell Souza da Rocha
-### 🚀 Infraestrutura & Backend Engineer | 🌐 Redes de Computadores (IFBA)
-
-Bem-vindo ao meu perfil! Sou um desenvolvedor de infraestrutura e backend com foco em **resultado, arquitetura escalável e segurança**. 
-
-Utilizo programação assistida por **Inteligência Artificial** para acelerar o desenvolvimento de forma inteligente, garantindo entregas rápidas, sólidas e sem abrir mão da integridade do código e boas práticas. Tenho experiência prática em levantar servidores do zero, integrar meios de pagamento reais (Mercado Pago) e gerenciar bases de dados em produção.
-
----
-
-### 🛠️ Tech Stack & Ferramentas
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" title="Python" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" title="FastAPI" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" title="PostgreSQL" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux VPS" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="50" alt="Nginx" title="Nginx" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" title="TypeScript" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" alt="React" title="React" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" title="Firebase" style="margin: 0 10px;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Oi,+eu+sou+o+Mikaell!+%F0%9F%91%8B;Backend+%26+Infraestrutura;Estudante+de+Redes+(IFBA);Entusiasta+de+Linux+%26+Cloud" alt="Typing SVG" />
 </div>
 
-<br>
 <p align="center">
-  <b>Outras Tecnologias:</b> Cloud (Nacional e Internacional) • Automação (n8n) • SDN/OpenFlow • Sistemas Distribuídos
+  Sou um desenvolvedor focado no ecossistema Backend e em Infraestrutura de TI. Tenho experiência prática configurando servidores VPS, lidando com banco de dados em produção e criando APIs (Python/FastAPI). Meu objetivo é construir arquiteturas limpas e resolver problemas reais de forma eficiente.
 </p>
 
 ---
 
-### 💼 Experiência & Projetos em Destaque
+### 💻 Stack e Ferramentas
 
-#### 🛒 E-commerce / Menu Digital (srchamanabrasa.com.br)
-Desenvolvimento de ponta a ponta de um sistema de vendas online em produção. 
-- **Destaques:** Integração bem-sucedida da API do **Mercado Pago** para processamento financeiro, estruturação com I.A. focada em segurança e UI impecável.
-
-#### 🔐 Base de Conhecimento & Autenticação
-Plataforma para centralização de conhecimento com controle de acesso estrito.
-- **Destaques:** Implementação de todo o fluxo de segurança, sessão e login utilizando **Firebase Auth** integrado ao **React**.
-
-#### ☁️ Implantação e Gestão de Servidores VPS
-Provisionamento de infraestrutura crua e gerenciamento de servidores no Brasil e no exterior.
-- **Destaques:** Setup de DNS, Nginx, migração de serviços e subida de infra-as-code visando a otimização radical de custos.
-
-#### ⚙️ Plataforma Backend e Processamento de Dados
-Engenharia de dados lidando com scripts massivos e alta performance.
-- **Destaques:** Uso de **FastAPI** e **PostgreSQL**, com normalização, classificadores onomásticos e criação de índices otimizados no banco de dados.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,linux,nginx,ts,react,firebase,aws,docker,git" alt="My Skills" />
+  </a>
+</div>
 
 ---
 
-### 📡 Experiência Profissional
+### 📊 Meus Status do GitHub
 
-**Provedor de Internet (ISP) — Auxiliar Administrativo e Suporte de Redes** *(4 Anos)*
-Background vital no "chão de fábrica" de TI. Atendimento técnico de conectividade, resolução de incidentes (*troubleshooting* avançado de redes), manutenção contínua de infraestrutura e gestão minuciosa de estoque e hardware.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LolyalOne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LolyalOne&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
 
-### 📫 Contato
+### 🚀 O que eu ando construindo
 
-- 📍 Santo Antônio de Jesus, BA
-- 💼 [LinkedIn](https://linkedin.com/in/mikaell-rocha)
+- 🛒 **E-commerce / Menu Digital:** Sistema de vendas real rodando em produção. Integração completa da API do Mercado Pago e arquitetura estruturada para garantir segurança nas transações financeiras.
+- ☁️ **Gestão de Servidores (VPS):** Subida de infraestrutura (Linux/Nginx), configuração de DNS e migração de serviços na nuvem visando o melhor custo-benefício e performance.
+- ⚙️ **Desenvolvimento de APIs:** Criação de plataformas e rotas com FastAPI e PostgreSQL, trabalhando também com normalização de dados e automação.
+
+### 💼 Um pouco do meu background
+Antes de entrar de cabeça no desenvolvimento, passei **4 anos trabalhando na linha de frente em provedores de internet (ISP)**. Fiz de tudo um pouco: suporte técnico, atendimento, gestão de hardware e *troubleshooting* de redes. Essa vivência no "chão de fábrica" me deu uma base fundamental para entender como a infraestrutura e os servidores funcionam por baixo dos panos, o que me ajuda muito hoje a escrever códigos que rodam bem em produção.
+
+<div align="center">
+  <br/>
+  <a href="https://linkedin.com/in/mikaell-rocha" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
