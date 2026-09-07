@@ -22,7 +22,7 @@
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-24.svg" width="24" height="24" alt="Graph" /> Meus Status do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LolyalOne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LolyalOne&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LolyalOne&layout=compact&theme=tokyonight"/>
 </div>
 
@@ -30,6 +30,7 @@
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/rocket-24.svg" width="24" height="24" alt="Rocket" /> O que eu ando construindo
 
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/cpu-16.svg" width="16" height="16" alt="AI" /> **[Monitor Web com I.A.](https://github.com/LolyalOne/web-interaction-monitor-ai):** Refatoração e expansão de um monitor de interações Web em Python. Orquestração de múltiplas IAs para consolidação de digitação, seletores avançados e exportação de dados.
 - <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/credit-card-16.svg" width="16" height="16" alt="Card" /> **E-commerce / Menu Digital:** Sistema de vendas real rodando em produção. Integração completa da API do Mercado Pago e arquitetura estruturada para garantir segurança nas transações financeiras.
 - <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/server-16.svg" width="16" height="16" alt="Server" /> **Gestão de Servidores (VPS):** Subida de infraestrutura (Linux/Nginx), configuração de DNS e migração de serviços na nuvem visando o melhor custo-benefício e performance.
 - <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" width="16" height="16" alt="DB" /> **Desenvolvimento de APIs:** Criação de plataformas e rotas com FastAPI e PostgreSQL, trabalhando também com normalização de dados e automação.
