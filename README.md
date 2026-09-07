@@ -22,8 +22,7 @@
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-24.svg" width="24" height="24" alt="Graph" /> Meus Status do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LolyalOne&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LolyalOne&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LolyalOne&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
