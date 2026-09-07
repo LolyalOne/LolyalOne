@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Sou um desenvolvedor focado no ecossistema Backend e em Infraestrutura de TI. Tenho experiência prática configurando servidores VPS, lidando com banco de dados em produção e criando APIs (Python/FastAPI). Meu objetivo é construir arquiteturas limpas e resolver problemas reais de forma eficiente.
+  Sou um desenvolvedor iniciante focado no ecossistema Backend e em Infraestrutura de TI. Tenho experiência prática configurando servidores VPS, lidando com banco de dados em produção e criando APIs (Python/FastAPI). Meu objetivo é construir arquiteturas limpas e resolver problemas reais de forma eficiente.
 </p>
 
 ---
