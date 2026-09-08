@@ -38,7 +38,7 @@ Antes de entrar de cabeça no desenvolvimento, passei **4 anos trabalhando na li
 
 <div align="center">
   <br/>
-  <a href="www.linkedin.com/in/mikaell-souza-da-rocha-2184a842b" target="_blank">
+  <a href="https://www.linkedin.com/in/mikaell-souza-da-rocha-2184a842b" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
